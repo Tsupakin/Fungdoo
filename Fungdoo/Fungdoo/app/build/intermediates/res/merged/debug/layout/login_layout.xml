@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorwrite"
+    android:descendantFocusability="beforeDescendants"
+    android:focusableInTouchMode="true" >
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true" />
+
+    <ImageView
+        android:id="@+id/view_1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/music_icon" />
+
+    <ScrollView
+        android:id="@+id/ScrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/ps__button_flat_digg"
+        android:padding="25dp"
+        android:layout_below="@+id/view"
+        android:layout_centerHorizontal="true">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/member_login_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="30dp"
+                android:text="FUNGDOO LOGIN"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:typeface="monospace" />
+
+            <EditText
+                android:id="@+id/username_edtext"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/member_login_tv"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="25dp"
+
+                android:gravity="center"
+                android:hint="Username"
+                android:inputType="text"
+                android:textColor="#000000"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/passwd_edtext"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/username_edtext"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="25dp"
+
+                android:gravity="center"
+                android:hint="**************"
+                android:inputType="textPassword"
+                android:textColor="#000000"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/login_button"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/passwd_edtext"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="25dp"
+                android:background="@color/colortext"
+                android:text="LOGIN"
+                android:textColor="@color/colorwrite"
+                android:textSize="20dp" />
+
+
+
+            <Button
+                android:id="@+id/regist"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colortext"
+                android:text="REGISTER"
+                android:textColor="@color/colorwrite"
+                android:textSize="20dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentStart="true"
+
+                android:layout_below="@+id/login_button"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="30dp"/>
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

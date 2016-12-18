@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6dba653bcac4ef3fa60a22bc9f36ae1739ff7336">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cd9ea3fe65ce1ff2fd80147f571a9f927c7227ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_a499335b0c42626ffedcc771793a28a122539bdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_853f72f0e3541e07cb40dfa81704b5c8cb42edef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.9.3/5d506d4238dd8a1d1c8a1188ffb819a2f2eb286d/joda-time-2.9.3-no-tzdb.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d506d4238dd8a1d1c8a1188ffb819a2f2eb286d">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/joda-time-2.9.3-no-tzdb_640a29d52ad3744bdcd975705bb055d682159af5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_e00fe15c9ae87ef96a4b75c7a40a95e05b084c4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.github.nisrulz/qreader/1.0.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="322cd978c22751839c289df0b75d0bbbf5b4aeb9">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.nisrulz-qreader-1.0.6_05505826857f6c4d50b65ea04d22d85461c4afda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.0.2_c8a507033c9c10a9451dca78cec7480f16d6df76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.0.2_0f4acfcf81832d7933e09c2b0b514759c11dd24d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.2_44d32b10067cbe8d2537fde358ecd26185295602/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.2_3ddbe845603bda54f64e8cbb1c4de7f4547ea6eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.2_54a09031a2177973516e44198d20c9cb02208f2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.0.2_ba0e503b2c8951a1ae32720a13d618db5452a2bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_68ad547f8437b08a4f34081b7c616c955b1f330a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.0.2_321af60fa1e9a8bd9fee5ee136c45e77dc3f6ed4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.2_b4c28b86295eb279b9e0032e9b34841c0921ff69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.0.2_b7a28e83f48fd0abc11cdd069cfc25815d1b21c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_f3fb1adaa0bd866e435f863122268f9808055146/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_b02cb2425acab8a56e329d7e1cef40b0a77f0b0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_41ceaa7889ff64aa2cb7a1ce409285b16e2b29cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_467dc1a255dd0c72058192fdd718a13585b74c26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.2_2f89e9e9978c331a3e606a2a1d96daa0759e8ba5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.0_a3050675869e2f5fab51715287f0e690f0502a04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.0.2_96651dce67185aac7b7a5fd103200500396a2bcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.0.2_68211fa5357e7d083bfbf53d9796304309273408/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_255d77e208429a2f1a75fdd054afeee33b5bd762/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.koushikdutta.ion/ion/2.1.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.koushikdutta.ion-ion-2.1.9_038b2a0e7e5d0927f63ceac08640a9bd209fa178/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_110db85e85a009870d069b6751792a324b786b4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/io.nlopez.smartlocation/library/3.2.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca25422816e3988f423d1da5222a46a204cb9502">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.nlopez.smartlocation-library-3.2.7_c12904f1875e579e888fc8ba1b87480c51c3ad2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.0.2_be25d37c06f87a4cb69ea426da604df90143de1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_850e22ae8e8fc58468455137ce8f7297c41ec087/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.0.2_f1adf000fe097294473f0ca47e4e45816ac6708b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.0.2_d600c017c3ce0a7ec89161b07f5b8c15280b125c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/universal-image-loader-1.9.5_b0324298407e91828b2ec9bf1b620da2ba8ed85d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.0.2_feb36e55e49a75accb9b33fa14fc1f2558b823ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.0.2_7e359d48152a392d57450425a2b809823656ad06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.2_b67bb4a80bd434f7108754097f83aeb843ec2841/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_945a2d491cf22d12826b1689e2b2cbc49cc8fa18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.0.2_f5ee1371112f02e0282c76ca1c25d0a394638e7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_7e9b46d09a8d20036cb33be61ff7232771898ffa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.5.2_3737db9e19f12f5dc29cd4709991066991257b68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.2_f61e3e5dcf5c01d980ecf08e171d22f1e3bf65aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_4841116cf69370d4eb02616c1a74298656046739/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.2_bca1cabfc9883f6b7817fc466a50d03d5ca9519f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.0/748f0546d5c3c27f1aef07270ffea0c45f0c42a4/rxjava-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.0_d282b485a81f47cc1ac6ad9082cde5dea65d1ead/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_661377d4445a25743304c2c616496934e5bdc567/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.0.2_9bd5245b60c6e7fb5d327a0e00689f627b7c2b14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.2_1eeb6738bf3129694061062c90a9f272c300b8d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.2_e359449ab198adbefe926bc2523b2730c7306451/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.0.2_3518a5b3e9d031d803546cf5d9b3c2a3620bb763/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.0.2_970cad185023cef15b7659b662d39e17ca6b9982/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_c5cfbf1db88ba31622c9bdb1abbdc374b6a1beed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_202d8ad1b262d10a27a86c138ac101c0873de447/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_7ad78e593fc6fef1500931ed19a46f9565db5f78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.0.2_d74f7afc8da4c51513dd39a681a1586e143137b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1929f70024258046ae31dfeb8dec9c9188b4d9fd">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/net.danlew-android.joda-2.9.3.1_ba5b4fbd546ae7c2661da1ecdc91669b5e1263d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.2_d7b14ae6620d7e50acffacfc022a43d49638fec2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_5b96d484a49b7f9cb7719cf7560b70b92113ea2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.2_a4d0855e1bf9ac562a5fc59eedbbf601a1dbbce5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_60810e10c9423860888d906010988a68702f7fa2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_ee0227305c03c98cdd56255af628cd92df76f42a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc6d45e67c0ee38597fab0e4196901ef9a637c20">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_23a61c7f4c150af178fc903b55ac2beb167f098f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_fe1717cd3ac1518d5b10a2e7837155a3a979fb88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.0.2_e36c1b56f969b9ae36ee8c713945d4383becf6e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.1.0_b5fe1566749ea3bfb1e0829290aa62013637091f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="91514e250eabdb61165eafc821c54bd95c218c47">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-23.1.1_ee46734ee126ca738fc807912bddc00225019ed9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.2_f828054f08056b46e7b8d5b5bb7d210fcbd9761b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_881c15ee6e896e494288fb0caab8090a79adffe4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.0.2_a04562cf0ab42592d1f054ec5b105f5e02e35ca3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.0.2_fae95aa47bd89f6e3fd33f5ce40b22994f05a175/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.0.2_602c282f82411fe58b5ff2b6e11982d5a5d3a602/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.0.2_95e3aa7d50e24577611a23456f258a6bbfca2358/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_b07c9794265c68b7a1133b8395753982051bb0b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.0.2_a088eea85c85901ddf6aadbd7321aceb2a99fe45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.0.2_35194599add44a6bf05c3b49ad3d5432ea0de0cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.0.2_c5ef0576cd9ddbed56f4431cb195e5188f419010/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.0.2_829ff88db5bd321fa717d07a180d6ea18ab461ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/exploded-aar/com.koushikdutta.async/androidasync/2.1.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="/Users/warawatsonchang/Documents/Fungdoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.koushikdutta.async-androidasync-2.1.9_27122ac9d84e349bebb39790a1ef763d7effe012/classes.dex" />
+    </item>
+
+</items>
